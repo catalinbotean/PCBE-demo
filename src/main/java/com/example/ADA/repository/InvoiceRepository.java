@@ -1,6 +1,6 @@
-package com.example.PCBE.repository;
+package com.example.ADA.repository;
 
-import com.example.PCBE.model.Invoice;
+import com.example.ADA.model.Invoice;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
